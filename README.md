@@ -4,8 +4,8 @@
   <br/>
   <br/>
   <div>
-    <a href="linkedin.com/in/fdaniel-gomez"><img src="./assets/linkedin.png">&nbsp;&nbsp;&nbsp;</a>
-    <a href="danieldev.tech"><img src="./assets/portfolio.png"></a>
+    <a href="https://linkedin.com/in/fdaniel-gomez"><img src="./assets/linkedin.png">&nbsp;&nbsp;&nbsp;</a>
+    <a href="https://danieldev.tech"><img src="./assets/portfolio.png"></a>
   </div>
 </div>
 <br/>
