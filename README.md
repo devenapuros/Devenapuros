@@ -16,17 +16,16 @@
 </p>
 <br/>
 <h2 align="center">Tecnologías</h2>
-
 <div align="center">
-    <img src="./assets/icons/html.svg"  height="32px"/>&nbsp;
-    <img src="./assets/icons/css.svg"  height="34px"/>&nbsp;
-    <img src="./assets/icons/javascript.svg"  height="32px"/>&nbsp;
-    <img src="./assets/icons/react.svg"  height="32px"/>&nbsp;
-    <img src="./assets/icons/nodejs.svg"  height="32px"/>&nbsp;
-    <img src="./assets/icons/mysql.svg"  height="32px"/>&nbsp;
-    <img src="./assets/icons/postgresql.svg"  height="32px"/>&nbsp;
-    <img src="./assets/icons/sequelize.svg"  height="32px"/>&nbsp;
-    <img src="./assets/icons/linux.svg"  height="32px"/>&nbsp;
-    <img src="./assets/icons/vscode.svg"  height="31px"/>&nbsp;
-    <img src="./assets/icons/php.svg"  height="30px"/>&nbsp;
+    <img src="./assets/icons/html.svg"  height="30px"/>&nbsp;
+    <img src="./assets/icons/css.svg"  height="32px"/>&nbsp;
+    <img src="./assets/icons/javascript.svg"  height="30px"/>&nbsp;
+    <img src="./assets/icons/react.svg"  height="30px"/>&nbsp;
+    <img src="./assets/icons/nodejs.svg"  height="30px"/>&nbsp;
+    <img src="./assets/icons/mysql.svg"  height="30px"/>&nbsp;
+    <img src="./assets/icons/postgresql.svg"  height="30px"/>&nbsp;
+    <img src="./assets/icons/sequelize.svg"  height="30px"/>&nbsp;
+    <img src="./assets/icons/linux.svg"  height="30px"/>&nbsp;
+    <img src="./assets/icons/vscode.svg"  height="29px"/>&nbsp;
+    <img src="./assets/icons/php.svg"  height="29px"/>&nbsp;
 </div>
