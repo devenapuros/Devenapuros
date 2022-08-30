@@ -4,8 +4,13 @@
   <br/>
   <br/>
   <div>
-    <img src="./assets/linkedin.png">&nbsp;&nbsp;&nbsp;
-    <img src="./assets/portfolio.png">
+    <a href="linkedin.com/in/fdaniel-gomez"><img src="./assets/linkedin.png">&nbsp;&nbsp;&nbsp;</a>
+    <a href="danieldev.tech"><img src="./assets/portfolio.png"></a>
   </div>
 </div>
 <br/>
+<p align="center">
+  Desarrollador entusiasta y apasionado 🧑‍💻<br/>
+  Desarrollando para hacer del mundo un lugar mejor 🌎<br/>
+  Siempre moviendo las manitas y con mucho 🧡
+</p>
