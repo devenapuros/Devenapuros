@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola 👋! Soy Daniel Gómez</h1>
-  <code>Desarrollador Full Stack Júnior 🧑‍💻</code>
+  <code>Desarrollador Frontend/Full Stack Jr. 🧑‍💻</code>
   <br/>
   <br/>
   <div>
